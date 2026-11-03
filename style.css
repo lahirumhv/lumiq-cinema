@@ -32,3 +32,4 @@ li { margin: 0.35rem 0; }
 .summary { border-left: 3px solid var(--accent); padding: 4px 0 4px 14px; margin: 1.5rem 0; }
 .placeholder { background: color-mix(in srgb, var(--accent) 18%, transparent); padding: 0 4px; border-radius: 4px; }
 footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-size: 0.9rem; }
+.app-icon { display: block; width: 112px; height: 112px; border-radius: 24px; margin: 0 0 20px; }
